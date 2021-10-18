@@ -1,2 +1,2 @@
-# SaiGanesh
+# NIIT
 Its my first repository
